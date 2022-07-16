@@ -1,0 +1,8 @@
+/* mac */
+**/.DS_Store
+
+/* packer */
+plugin/packer_compiled.lua
+
+/* base16 dynamic themes */
+colors/base16*

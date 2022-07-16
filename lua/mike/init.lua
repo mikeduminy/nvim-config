@@ -1,0 +1,5 @@
+require 'mike.setup'
+require 'mike.options'
+require 'mike.keybindings'
+require 'mike.packer'
+require 'mike.plugins'
